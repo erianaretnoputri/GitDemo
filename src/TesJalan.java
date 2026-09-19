@@ -8,6 +8,7 @@ public class TesJalan {
         driver.get("https://www.google.com");
         System.out.println("Test Jalan");
         System.out.println("Test Jalan ke 2");
+        System.out.println("Test Jalan ke 3");
 	}
 
 }
