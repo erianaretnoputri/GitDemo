@@ -7,6 +7,7 @@ public class TesJalan {
 		WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com");
         System.out.println("Test Jalan");
+        System.out.println("Test Jalan Kedua");
 	}
 
 }
