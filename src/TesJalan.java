@@ -17,4 +17,9 @@ public class TesJalan {
 	}
 
 
+	public static void IOApps2() {
+		// TODO Auto-generated method stub
+		System.out.println("IOSApp2");
+	}
+
 }
